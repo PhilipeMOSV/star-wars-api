@@ -1,0 +1,25 @@
+{
+  "name": "star-wars-api",
+  "version": "1.0.0",
+  "description": "Star Wars Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilipeMOSV/star-wars-api.git"
+  },
+  "author": "Philipe Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilipeMOSV/star-wars-api/issues"
+  },
+  "homepage": "https://github.com/PhilipeMOSV/star-wars-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.22",
+    "request": "^2.88.0"
+  }
+}
